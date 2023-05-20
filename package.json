@@ -1,0 +1,25 @@
+{
+  "name": "lin",
+  "version": "1.0.0",
+  "description": "这将是最好的template更新工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbenduan/lin.git"
+  },
+  "keywords": [
+    "cli",
+    "template",
+    "git",
+    "submodule"
+  ],
+  "author": "xbenduan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbenduan/lin/issues"
+  },
+  "homepage": "https://github.com/xbenduan/lin#readme"
+}
